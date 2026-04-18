@@ -8,6 +8,6 @@ __pycache__/
 *.pyd
 .env
 .DS_Store
-sample_data/job_description/*
-sample_data/resumes/*
+sample_data/**/*.pdf
+*.pdf
 
