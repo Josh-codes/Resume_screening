@@ -1,0 +1,3 @@
+We are looking for a Software Engineer skilled in Python, AWS, Docker, and Kubernetes.
+Experience with Machine Learning is a plus.
+Responsibilities include developing scalable backend systems.

@@ -1,0 +1,13 @@
+/.venv/
+/venv/
+/env/
+/ENV/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.DS_Store
+sample_data/job_description/*
+sample_data/resumes/*
+

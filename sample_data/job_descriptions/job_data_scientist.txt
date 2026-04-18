@@ -1,0 +1,3 @@
+Seeking a Data Scientist proficient in Python, SQL, and Machine Learning.
+Experience with data visualization tools and TensorFlow is required.
+You will work on analyzing large datasets to drive business decisions.

@@ -1,0 +1,49 @@
+About Us:
+CareerNinja is building a personalised & experiential learning platform to make high-quality learning accessible at a mass global scale. It is revolutionising the way youth kickstart & upgrade their career. At the core of it is a unique adaptive learning product with an exclusive technology which enables course creation with 1/10th the effort & cost.
+*
+Why Work With Us:
+Being an education organisation, we take your growth seriously. Working with us could be your best decision if you're looking for learning, wide exposure & looking to be in the driving seat of what you do. You will be given real responsibilities, freedom to make decisions and come up with ideas and work closely with the founder and the core team, all in a flexible, casual and young (everyone under 28) work environment.
+Work from home(even without Covid), flexible work, free snacks, etc are just a regular part of our work life.
+Machine Learning Engineer
+We are looking for an expert in Data Engineering, Machine Learning, Deep Learning and NLP. You will lead all the processes from R&D, data collection, cleaning, and preprocessing, to training models and deploying them to production. The ideal candidate will be passionate about artificial intelligence and stay up-to-date with the latest developments in the field. Most of our work revolves around text data so we need a candidate who has proven expertise in recent advancements in the field of NLP.
+Responsibilities:
+Data Collection and Curation.
+Select appropriate annotated datasets for Supervised Learning methods.
+Use effective text representations to transform natural language into useful features.
+Find and implement the right algorithms and tools for NLP tasks.
+Develop ML/DL/NLP models according to requirements.
+Train the developed model and run evaluation experiments.
+Perform statistical analysis of results and refine models.
+Extend ML libraries and frameworks to apply in NLP tasks.
+Building recommendation engines to increase the personalization of content for the user.
+Testing and deployment of models on cloud services i.e. AWS/GCP etc.
+Act as a bridge between product and engineering team to translate product requirements into the technical solutions.
+Stay updated and use industry best practices and latest technology trends.
+Prototype ideas rapidly using cutting edge technologies, drive architecture discussions, and proposes solutions to system and product changes.
+Requirements:
+Bachelors or higher degree in Computer Science or related technical field.
+2+ years of work experience in NLP, Machine Learning, Deep Learning and Data Science.
+Strong experience in developing, deploying and monitoring large scale models in production environments from scratch.
+Deep understanding and working knowledge of frameworks like PyTorch/TensorFlow/Keras.
+Strong Exposure to at least 1-2 state of the art NLP algorithms e.g GPT, BERT, T5, RoBERTa, Hugging Faces etc.
+Deep understanding of NLP techniques for text representation, semantic extraction techniques, data structures and language modelling.
+Experience with NLP libraries and technologies including Spacy, NLTK, Gensim, Stanford NLP etc.
+Proficiency with Python and basic libraries for machine learning such as Numpy, Scikit-learn and pandas.
+Exposure to DL Model optimisation and transfer learning technique.
+Experience of cloud environment AWS/GCP, Hadoop/Spark, SQL is a plus.
+Experience with technologies like Docker, Kubernetes, CI/CD, Git is a plus.
+Experience with ML Ops is a plus.
+A team player who can work independently too.
+Excellent written and verbal communication skills.
+Multi-tasking and time-management skills, with the ability to prioritize tasks.
+*
+Job Type: Full-time
+Salary: â‚¹800,000.00 - â‚¹1,500,000.00 per year
+Experience:
+Machine Learning: 2 years (Required)
+work: 3 years (Preferred)
+total work: 2 years (Preferred)
+Education:
+Bachelor's (Required)
+Work Remotely:
+Temporarily due to COVID-19

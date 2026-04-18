@@ -1,0 +1,30 @@
+Job Description
+
+Title: Java Developer
+
+Job Location: Andheri, Mumbai
+
+Budget: 7.5 Lacs
+
+Exp: Minimum 3+ yrs
+
+Skills:
+
+Java/J2EE Technologies(JDBC, JSP, Servlets) - Mandatory
+
+Spring Framework( Spring Core, Spring AOP, Spring JDBC, Spring Transaction, Spring MVC, Spring Security, Spring Rest , Spring Mail) - Mandatory
+
+Web services(Restful Web Services), Oracle database, Eclipse IDE, SVN, Apache Tile,JavaScript, JQuery, AJAX, JSON, Log4j, Weblogic 12c, Tomcat.
+Desired Candidate Profile
+Please refer to the Job description above
+
+Education-
+
+UG:B.Tech/B.E. - Any Specialization, B.Sc - Any Specialization, BCA - Computers
+
+PG:MCA - Computers, MS/M.Sc(Science) - Any Specialization
+Company Profile
+
+INFINIMINDS Private Limited
+
+An Indian MNC
