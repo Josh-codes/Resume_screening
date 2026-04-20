@@ -1,0 +1,44 @@
+Role Overview
+
+We are seeking a highly motivated AI & Data Analyst Intern to join our team. The ideal candidate should have a strong foundation in data analytics, machine learning, and full-stack development, with hands-on experience in building end-to-end data-driven applications.
+
+Key Responsibilities
+Analyze large datasets to extract meaningful insights and support business decision-making
+Build and optimize SQL queries for data extraction and transformation (preferably using cloud platforms like BigQuery)
+Develop interactive dashboards using tools such as Looker Studio, Power BI, or Tableau
+Design, train, and evaluate machine learning models for real-world applications
+Work on computer vision projects using frameworks like YOLO and OpenCV
+Develop and integrate REST APIs using Django/Django REST Framework
+Collaborate on full-stack applications using React for frontend and Python backend
+Perform data preprocessing, cleaning, and feature engineering using Pandas and NumPy
+Assist in deploying ML models and applications on cloud platforms (GCP preferred)
+Required Skills
+Programming: Python, SQL
+Data Analysis: Pandas, NumPy
+Machine Learning: Scikit-learn, TensorFlow/Keras
+Computer Vision: OpenCV, YOLO (preferred)
+Web Development: Django, Django REST Framework, React
+Data Visualization: Looker Studio / Power BI / Tableau
+Cloud Platforms: Google Cloud Platform (BigQuery preferred)
+Preferred Qualifications
+Experience working on real-world data analytics or ML projects
+Familiarity with time-series forecasting models (e.g., LSTM)
+Understanding of end-to-end ML pipelines
+Knowledge of authentication systems (JWT) in web applications
+Exposure to financial data analysis or stock/loan datasets
+Soft Skills
+Strong problem-solving and analytical thinking
+Ability to work independently and in a team
+Good communication and presentation skills
+Attention to detail and data accuracy
+Eligibility
+Pursuing a degree in Artificial Intelligence, Data Science, Computer Engineering, or related field
+Basic understanding of data structures and algorithms
+Nice to Have
+Participation in hackathons or technical competitions
+Experience in building real-time systems or dashboards
+GitHub portfolio showcasing projects
+Expected Outcomes
+Deliver actionable insights from data
+Build at least one end-to-end ML/data project during the internship
+Contribute to dashboards or analytics systems used by stakeholders

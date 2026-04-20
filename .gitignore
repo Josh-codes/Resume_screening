@@ -1,13 +1,10 @@
-/.venv/
-/venv/
-/env/
-/ENV/
-__pycache__/
-*.pyc
-*.pyo
-*.pyd
-.env
-.DS_Store
-sample_data/**/*.pdf
-*.pdf
+# Ignore everything by default
+*
 
+# Allow these files to be committed
+!.gitignore
+!app/
+!app/advanced_matcher.py
+!app/enhanced_utils.py
+!app/main_enhanced.py
+!app/utils_ner.py

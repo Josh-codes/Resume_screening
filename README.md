@@ -10,6 +10,8 @@ An AI-powered resume screening tool that intelligently matches candidate resumes
 - Uses Sentence-BERT to calculate semantic similarity between resumes and job descriptions
 - Scores and ranks resumes based on relevance
 - Displays real-time results with a clean and user-friendly UI
+- Enhanced mode with multi-criteria scoring (semantic + skills + experience)
+- Skill extraction with spaCy, weighted by importance
 
 ---
 
@@ -49,6 +51,12 @@ pip install -r requirements.txt
 
 # Run the Streamlit app
 python -m streamlit run app/main.py
+
+# Run the enhanced app
+python -m streamlit run app/main_enhanced.py
+
+# Download spaCy model for enhanced skills
+python -m spacy download en_core_web_sm
 
 
 

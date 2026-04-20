@@ -1,0 +1,22 @@
+Are you a talented machine learning enthusiast eager to gain hands-on experience in a dynamic and cutting-edge environment? Look no further! Symonis is seeking a skilled machine learning intern proficient in Python, data analytics, data science, natural language processing (NLP), deep learning, and artificial intelligence to join our team.
+
+Selected intern's day-to-day responsibilities include:
+
+1. Develop and implement machine learning algorithms to improve our products and services.
+2. Conduct data analysis and provide insights to drive business decisions.
+3. Collaborate with cross-functional teams to integrate machine learning models into existing systems.
+4. Research and stay up-to-date on the latest trends in machine learning and artificial intelligence.
+5. Assist in the design and development of new machine learning models and techniques.
+6. Optimize and fine-tune machine learning models for performance and scalability.
+7. Present findings and recommendations to stakeholders clearly and concisely.
+
+If you are passionate about machine learning and eager to make a real impact, apply now to join Symonis and take your skills to the next level!
+
+Skills Required:
+Artificial intelligence
+Data Analytics
+Data Science
+Deep Learning
+Machine Learning
+Natural Language Processing (NLP)
+Python
