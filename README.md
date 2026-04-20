@@ -57,6 +57,15 @@ python -m streamlit run app/main_enhanced.py
 
 # Download spaCy model for enhanced skills
 python -m spacy download en_core_web_sm
+```
+
+### spaCy Model Install Notes
+
+If the download fails in a corporate or offline environment, you can install the model from a local wheel:
+
+```bash
+pip install /path/to/en_core_web_sm-<version>-py3-none-any.whl
+```
 
 
 
